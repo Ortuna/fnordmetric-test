@@ -30,6 +30,7 @@ FnordMetric.namespace :myapp do
   end
 
   # echo '{"_type": "go","ref":"facebzz"}' | nc localhost 1337
+  # https://github.com/paulasmuth/fnordmetric
 end
 
 FnordMetric.standalone
